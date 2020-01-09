@@ -15,7 +15,7 @@ const express = require('express'),
 
       app.get('/',(req, res)=>{
         const params = {
-            Bucket: 'user-uploads7879/Anurag',
+            Bucket: 'BUCKET NAME',
             Key: 'hot.jpg'
         }
         S3.getObject(params, (err, data)=>{
