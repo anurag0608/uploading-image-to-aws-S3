@@ -1,0 +1,22 @@
+{
+  "name": "aws-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "photoUpload.js",
+  "dependencies": {
+    "aws-sdk": "^2.540.0",
+    "blob": "0.0.5",
+    "body-parser": "^1.19.0",
+    "btoa-atob": "^0.1.2",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
