@@ -8,7 +8,7 @@
     "blob": "0.0.5",
     "body-parser": "^1.19.0",
     "btoa-atob": "^0.1.2",
-    "ejs": "^2.7.1",
+    "ejs": "^3.0.1",
     "express": "^4.17.1",
     "fs": "^0.0.1-security",
     "request": "^2.88.0"
