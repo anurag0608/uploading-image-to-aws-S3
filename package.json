@@ -4,7 +4,7 @@
   "description": "",
   "main": "photoUpload.js",
   "dependencies": {
-    "aws-sdk": "^2.540.0",
+    "aws-sdk": "^2.611.0",
     "blob": "0.0.5",
     "body-parser": "^1.19.0",
     "btoa-atob": "^0.1.2",
