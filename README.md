@@ -1,1 +1,1 @@
-# uploading-image-to-aws-S3
+# UPLOADING-IMAGE-TO-AWS-S3
